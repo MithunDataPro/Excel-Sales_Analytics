@@ -7,7 +7,7 @@ A comprehensive repository for Excel-based sales data analytics, featuring a col
 
     **1.** Create a _[Customer Net Sales Performance Report](https://github.com/MithunDataPro/Excel-Sales_Analytics/blob/main/Customer%20Net%20Sales%20Performance%20Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/MithunDataPro/Excel-Sales_Analytics/blob/main/Market%20Performance%20VS%20Target%20Reported.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
